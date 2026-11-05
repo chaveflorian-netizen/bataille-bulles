@@ -1,0 +1,12 @@
+{
+  "name": "bataille-bulles",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "tiktok-live-connector": "2.1.0",
+    "ws": "8.18.0"
+  }
+}
